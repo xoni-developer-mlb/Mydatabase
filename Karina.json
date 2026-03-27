@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero081-portrait.png/revision/latest?cb=20240605133151",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/karina_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Doom Duelist",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero086-portrait.png/revision/latest?cb=20220525164459",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/karina_doomduelist.zip",
+    "tag": "LuckyBox"
+  },
+  {
+    "name": "Leona",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero087-portrait.png/revision/latest?cb=20220525164500",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/karina_leona.zip",
+    "tag": "King of Fighters"
+  },
+  {
+    "name": "Christmas Carnival",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero083-portrait.png/revision/latest?cb=20220525164456",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/karina_christmas.zip",
+    "tag": "Christmas"
+  },
+  {
+    "name": "Gemini - Halo",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero088-portrait.png/revision/latest?cb=20230514163400",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/karina_gemini.zip",
+    "tag": "Zodiac"
+  },
+  {
+    "name": "Spider Lily",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero085-portrait.png/revision/latest?cb=20220525164458",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/karina_spiderlily.zip",
+    "tag": "Elite"
+  }
+]

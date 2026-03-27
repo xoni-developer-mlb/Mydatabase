@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero1041-portrait.png/revision/latest?cb=20240602231141",
+    "script": "https://github.com/zetsuya05/january/raw/main/gloo_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Jellyman",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero1043-portrait.png/revision/latest?cb=20220526053627",
+    "script": "https://github.com/tin0521/tnk/raw/main/gloo_jellyman.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Patrick",
+    "image": "https://github.com/tin0521/dec2025/raw/main/gloo_sponge.png",
+    "script": "https://github.com/zetsuya05/january/raw/main/gloo_patrick.zip",
+    "tag": "Spongebob"
+  }
+]

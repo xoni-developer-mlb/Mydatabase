@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero201-portrait.png/revision/latest?cb=20240605151404",
+    "script": "https://github.com/tin0521/tnk/raw/main/lolita_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Impish Trickster",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241019_134245822.png",
+    "script": "https://github.com/tin0521/tnk/raw/main/lolita_halloween.zip",
+    "tag": "Halloween"
+  },
+  {
+    "name": "Lion Dance",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero204-portrait.png/revision/latest?cb=20220525164743",
+    "script": "https://github.com/tin0521/tnk/raw/main/lolita_lunarfest.zip",
+    "tag": "Lunarfest"
+  },
+  {
+    "name": "Genki Slam",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero206-portrait.png/revision/latest?cb=20240202093547",
+    "script": "https://github.com/tin0521/tnk/raw/main/lolita_genkislam.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Starwatcher",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241019_134245768.png",
+    "script": "https://github.com/tin0521/tnk/raw/main/lolita_rising.zip",
+    "tag": "Rising"
+  }
+]

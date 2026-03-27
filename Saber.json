@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Backup",
+    "image": "https://github.com/Mexi23/JCGameUtility/raw/refs/heads/main/Saber_Default_image.png",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/saber_backup.zip"
+  },
+  {
+    "name": "Force Warrior",
+    "image": "https://github.com/tin0521/asimg/raw/refs/heads/main/img_20241012_215208293.png",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/saber_forcewarrior.zip"
+  },
+  {
+    "name": "Codename - Storm",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero034-portrait.png/revision/latest?cb=20220525164329",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/saber_codename.zip"
+  },
+  {
+    "name": "S.A.B.E.R. Regulator",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Hero036-portrait.png/revision/latest?cb=20220525164332",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/saber_regulator.zip",
+    "tag": "S.A.B.E.R"
+  },
+  {
+    "name": "Iron Hound",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero039-portrait.png/revision/latest?cb=20221216103121",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/saber_ironhound.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Onimaru",
+    "image": "https://pbs.twimg.com/media/GWtJJdvaYAAbPit?format=jpg",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/saber_onimaruluckybox.zip",
+    "tag": "LuckyBox"
+  }
+]

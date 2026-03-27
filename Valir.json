@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero571-portrait.png/revision/latest?cb=20240501080033",
+    "script": "https://github.com/tin0521/mge/raw/main/valir_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Kyo Kusanagi",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero105711-portrait.png/revision/latest?cb=20250106155738",
+    "script": "https://github.com/tin0521/mge/raw/main/valir_kof.zip",
+    "tag": "King of Fighters"
+  },
+  {
+    "name": "Draconic Flame",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero575-portrait.png/revision/latest?cb=20220525165500",
+    "script": "https://github.com/tin0521/mge/raw/main/valir_draconic.zip",
+    "tag": "Dragon Tamer"
+  },
+  {
+    "name": "Demonlord",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero576-portrait.png/revision/latest?cb=20220525165501",
+    "script": "https://github.com/tin0521/mge/raw/main/valir_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Phoenix Ikki",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero578-portrait.png/revision/latest?cb=20220915121951",
+    "script": "https://github.com/tin0521/mge/raw/main/valir_phoenix.zip",
+    "tag": "Saint Seiya"
+  },
+  {
+    "name": "Leo Ikki",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero579-portrait.png/revision/latest?cb=20220915121957",
+    "script": "https://github.com/tin0521/mge/raw/main/valir_leo.zip",
+    "tag": "Saint Seiya"
+  },
+  {
+    "name": "Infernal Blaze",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero577-portrait.png/revision/latest?cb=20220525165502",
+    "script": "https://github.com/tin0521/mge/raw/main/valir_legend.zip",
+    "tag": "Legend"
+  },
+  {
+    "name": "Dictator",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero577-portrait.png/revision/latest?cb=20220525165502",
+    "script": "https://github.com/tin0521/mge/raw/main/valir_dictator.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Shikigami Summoner",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero577-portrait.png/revision/latest?cb=20220525165502",
+    "script": "https://github.com/tin0521/mge/raw/main/valir_shikigami.zip",
+    "tag": "Special"
+  }
+]

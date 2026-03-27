@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero411-portrait.png/revision/latest?cb=20220525165152",
+    "script": "https://github.com/tin0521/tnk/raw/main/gatot_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Sentinel",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero414-portrait.png/revision/latest?cb=20220525165157",
+    "script": "https://github.com/tin0521/tnk/raw/main/gatot_sentinel.zip",
+    "tag": "LuckyBox"
+  },
+  {
+    "name": "Tide Preserver",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero416-portrait.png/revision/latest?cb=20240114121812",
+    "script": "https://github.com/tin0521/tnk/raw/main/gatot_tide.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Nutcracker Monarch",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero418-portrait.png/revision/latest?cb=20240811092808",
+    "script": "https://github.com/tin0521/tnk/raw/main/gatot_nutcracker.zip",
+    "tag": "Starlight"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero841-portrait.png/revision/latest?cb=20240621034004",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/ling_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Serene Plume",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero846-portrait.png/revision/latest?cb=20220525170020",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/ling_sereneplume.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Night Shade",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero844-portrait.png/revision/latest?cb=20220525170017",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/ling_nightshade.zip",
+    "tag": "Dragon Tamer"
+  },
+  {
+    "name": "Lord Shen",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero848-portrait.png/revision/latest?cb=20220804115337",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/ling_lordshen.zip",
+    "tag": "Kung Fu Panda"
+  },
+  {
+    "name": "Street Punk",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero843-portrait.png/revision/latest?cb=20220525170016",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/ling_streetpunk.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Cosmo Guard",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero845-portrait.png/revision/latest?cb=20220525170019",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/ling_cosmoguard.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "M-World Ling",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero847-portrait.png/revision/latest?cb=20220525170021",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/ling_mworld.zip",
+    "tag": "MWorld"
+  },
+  {
+    "name": "Neobeast Ling",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero108410-portrait.png/revision/latest?cb=20250320125043",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/ling_neobeast.zip",
+    "tag": "Neobeast"
+  }
+]

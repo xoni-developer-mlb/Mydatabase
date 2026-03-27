@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero561-portrait.png/revision/latest?cb=20240611065025",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/gusion_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Minato",
+    "image": "https://raw.githubusercontent.com/zetsuya05/january_2026/refs/heads/main/images%20(61).jpeg",
+    "script": "https://github.com/zetsuya05/assa_feb2026/raw/refs/heads/main/gusion_minato.zip",
+    "tag": "Naruto"
+  },
+  {
+    "name": "Soul Revelation",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105610-portrait.png/revision/latest?cb=20220714031432",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/gusion_soulrevelation.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Dangerous Liaison",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero565-portrait.png/revision/latest?cb=20220915121902",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/gusion_dangerousliaison.zip",
+    "tag": "Valentine"
+  },
+  {
+    "name": "V.E.N.O.M. Emperor Scorpion",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero566-portrait.png/revision/latest?cb=20220525165448",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/gusion_venom.zip",
+    "tag": "V.E.N.O.M"
+  },
+  {
+    "name": "K'",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero567-portrait.png/revision/latest?cb=20220525165449",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/gusion_kof.zip",
+    "tag": "King of Fighters"
+  },
+  {
+    "name": "Cosmic Gleam",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero568-portrait.png/revision/latest?cb=20220525165451",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/gusion_cosmicgleam.zip",
+    "tag": "Legend"
+  },
+  {
+    "name": "Night Owl",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero569-portrait.png/revision/latest?cb=20220525165452",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/gusion_nightowl.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Dimension Walker",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero105611-portrait.png/revision/latest?cb=20221103134623",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/gusion_dimensionwalker.zip",
+    "tag": "11.11"
+  },
+  {
+    "name": "Desert Spider",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero105613-portrait.png/revision/latest?cb=20240619171236",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/gusion_desertspider.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Cyber Ops",
+    "image": "https://github.com/tin0521/asimg/raw/refs/heads/main/img_20241012_164412402.png",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/gusion_cyberops.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Hairstylist",
+    "image": "https://github.com/tin0521/asimg/raw/refs/heads/main/img_20241012_164412415.png",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/gusion_hairstylist.zip",
+    "tag": "Elite"
+  }
+]

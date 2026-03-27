@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero191-portrait.png/revision/latest?cb=20240605151309",
+    "script": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/mino_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Tauros",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero195-portrait.png/revision/latest?cb=20230316133655",
+    "script": "https://github.com/tin0521/tnk/raw/main/minotour_zodiac.zip",
+    "tag": "Zodiac"
+  },
+  {
+    "name": "Nether Overseer",
+    "image": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/mino%20portrait.png",
+    "script": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/mino_epic.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Dreadnought",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241019_134245899.png",
+    "script": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/mino_epic.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Orbiter",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241019_134245935.png",
+    "script": "https://github.com/tin0521/tnk/raw/main/minotour_s4.zip",
+    "tag": "S4"
+  },
+  {
+    "name": "Sacred Hammer",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241019_134245923.png",
+    "script": "https://github.com/tin0521/tnk/raw/main/minotour_sacred.zip",
+    "tag": "Elite"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero1271-portrait.png/revision/latest?cb=20241201052822",
+    "script": "https://github.com/tin0521/ff/raw/main/lukas_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Naruto",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero1273-portrait.png/revision/latest?cb=20250411101452",
+    "script": "https://github.com/tin0521/ff/raw/main/lukas_naruto.zip",
+    "tag": "Naruto Shippuden"
+  }
+]

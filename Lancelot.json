@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero471-portrait.png/revision/latest?cb=20240501053243",
+    "script": "https://github.com/zetsuya05/january/raw/main/lancelot_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Blade of Devotion",
+    "image": "https://github.com/tin0521/January_2026/blob/main/lancelot%20valentine.jpg?raw=true",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/lancelot_def_valentine.zip",
+    "tag": "Valentines"
+  },
+  {
+    "name": "Bren. Esports",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero479-portrait.png/revision/latest?cb=20220525165252",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_bren.zip",
+    "tag": "Champion"
+  },
+  {
+    "name": "Empyrean Flame",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero104710-portrait.png/revision/latest?cb=20220804115345",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_emperyean.zip",
+    "tag": "Dragon Tamer"
+  },
+  {
+    "name": "Floral Knight",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero477-portrait.png/revision/latest?cb=20220525165250",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_floralknight.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Royal Matador",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero474-portrait.png/revision/latest?cb=20220525165247",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_royalmatador.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Swordmaster",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero478-portrait.png/revision/latest?cb=20220525165251",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_swordmaster.zip",
+    "tag": "Dawning Stars"
+  },
+  {
+    "name": "Christmas Carnival",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero473-portrait.png/revision/latest?cb=20220525165246",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_christmas.zip",
+    "tag": "Christmas"
+  },
+  {
+    "name": "Pisces",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero476-portrait.png/revision/latest?cb=20230212041010",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_pisces.zip",
+    "tag": "Zodiac"
+  },
+  {
+    "name": "Guardian of the Shrine",
+    "image": "https://i.pinimg.com/736x/76/9e/9c/769e9c5f7294e060050fd62f7e1f059e.jpg",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_guardian.zip",
+    "tag": "Kishin Densetsu"
+  },
+  {
+    "name": "Dark Earl",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero475-portrait.png/revision/latest?cb=20220525165248",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_darkearl.zip",
+    "tag": "Starlight"
+  }
+]

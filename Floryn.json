@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Hero1121-portrait.png/revision/latest?cb=20220525170535",
+    "script": "https://github.com/tin0521/supp/raw/main/floryn_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Arrow of Spring",
+    "image": "https://github.com/tin0521/January_2026/blob/main/floryn%20ethernal.jpg?raw=true",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/floryn_def_eternal.zip",
+    "tag": "Eternal Season"
+  },
+  {
+    "name": "Fluffy Dream",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero1123-portrait.png/revision/latest?cb=20220525170548",
+    "script": "https://github.com/tin0521/supp/raw/main/floryn_sanrio.zip",
+    "tag": "Sanrio Characters"
+  },
+  {
+    "name": "Yatai Waitress",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero1125-portrait.png/revision/latest?cb=20240619173600",
+    "script": "https://github.com/tin0521/supp/raw/main/floryn_summer.zip",
+    "tag": "Summer"
+  },
+  {
+    "name": "Melody of Light",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1126-portrait.png/revision/latest?cb=20250109154338",
+    "script": "https://github.com/tin0521/supp/raw/main/floryn_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Paw Power",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero1124-portrait.png/revision/latest?cb=20230212035445",
+    "script": "https://github.com/tin0521/supp/raw/main/floryn_pawpower.zip",
+    "tag": "Elite"
+  }
+]

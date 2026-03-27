@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero591-portrait.png/revision/latest?cb=20220525165512",
+    "script": "https://github.com/tin0521/tnk/raw/main/uranus_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Mech Protector",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero593-portrait.png/revision/latest?cb=20220525165516",
+    "script": "https://github.com/tin0521/tnk/raw/main/uranus_mech.zip",
+    "tag": "Rising"
+  },
+  {
+    "name": "Video-Game Dominator",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero594-portrait.png/revision/latest?cb=20220525165517",
+    "script": "https://github.com/tin0521/tnk/raw/main/uranus_videogame.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Pinball Machine",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero595-portrait.png/revision/latest?cb=20220525165518",
+    "script": "https://github.com/tin0521/tnk/raw/main/uranus_pinball.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Celestial Bastion",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero596-portrait.png/revision/latest?cb=20220525165519",
+    "script": "https://github.com/tin0521/tnk/raw/main/uranus_celestial.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Earthen Relic",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241019_143946014.png",
+    "script": "https://github.com/tin0521/tnk/raw/main/uranus_s25.zip",
+    "tag": "S25"
+  }
+]
