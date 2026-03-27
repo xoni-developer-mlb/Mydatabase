@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero871-portrait.png/revision/latest?cb=20220621142648",
+    "script": "https://github.com/tin0521/tnk/raw/main/baxia_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Badass Roller",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero873-portrait.png/revision/latest?cb=20220525170057",
+    "script": "https://github.com/tin0521/tnk/raw/main/baxia_badass.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Ba-tender",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero874-portrait.png/revision/latest?cb=20221111133611",
+    "script": "https://github.com/tin0521/tnk/raw/main/baxia_batender.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Dauntless Shield",
+    "image": "https://pbs.twimg.com/media/GWtK8VaXUAAhLYl?format=jpg&name=large",
+    "script": "https://github.com/tin0521/tnk/raw/main/baxia_dountless.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Black Tortoise",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241021_173029467.png",
+    "script": "https://github.com/tin0521/tnk/raw/main/baxia_s30.zip",
+    "tag": "S30"
+  }
+]

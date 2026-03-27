@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero931-portrait.png/revision/latest?cb=20220525171026",
+    "script": "https://github.com/tin0521/tnk/raw/main/atlas_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Rune of Sentinel",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero935-portrait.png/revision/latest?cb=20230514163425",
+    "script": "https://github.com/tin0521/tnk/raw/main/atlas_rune.zip",
+    "tag": "MSC"
+  },
+  {
+    "name": "Space Mech",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero934-portrait.png/revision/latest?cb=20220804115339",
+    "script": "https://github.com/tin0521/tnk/raw/main/atlas_space.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Fuel Turbine",
+    "image": "https://i.pinimg.com/originals/85/ac/09/85ac091ed29d83041901320cc1170f24.jpg",
+    "script": "https://github.com/tin0521/tnk/raw/main/atlas_fuel.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Mecha Infernus",
+    "image": "https://pbs.twimg.com/media/GS5-n-rbIAAOY_L.jpg:large",
+    "script": "https://github.com/tin0521/tnk/raw/main/atlas_collector.zip",
+    "tag": "Collector"
+  }
+]
